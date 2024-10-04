@@ -25,4 +25,8 @@ ea19df2b-b0ab-4b73-b226-dc16b5e38720
 {4,"_$Transaction$_.Begin",9},
 {4,"_$Data$_.New",10},
 {5,4145a568-0baf-4e33-8ce1-46ff52032408,"Справочник.Сотрудники",2},
-{4,"_$Transaction$_.Commit",11}
+{4,"_$Transaction$_.Commit",11},
+{5,45e32147-4a87-4959-b909-34c360285207,"Справочник.Бригады",1},
+{4,"_$Data$_.Update",12},
+{4,"_$Data$_.Delete",13},
+{3,"BackgroundJob",3}
